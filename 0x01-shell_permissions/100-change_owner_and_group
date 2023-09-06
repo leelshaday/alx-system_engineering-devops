@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hoberton hello
+chown -hR vincent:staff .
